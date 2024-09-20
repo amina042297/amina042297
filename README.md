@@ -13,7 +13,8 @@ This repository is a space where I showcase my skills, share projects, and docum
 - [About](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Tech Store Sales Analysis](https://github.com/amina042297/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+ 
+  - https://github.com/amina042297/amina042297/blob/main/Amina_Dota2Simplified_Simple_Baseline%20(5).ipynb 
   - SQL
     - [Covid 19 Data Exploration](https://github.com/amina042297/Data-Analysis-Portfolio#covid-19-data-exploration)
   - R
