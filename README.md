@@ -10,7 +10,7 @@ This repository is a space where I showcase my skills, share projects, and docum
 
 ## Table of Contents
 
-- [About](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/amina042297/amina042297/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
  
