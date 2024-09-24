@@ -15,6 +15,7 @@ This repository is a space where I showcase my skills, share projects, and docum
   #### Python
   - [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb)
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
+  - [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
   #### R
     - [Billionaires Statistics Dataset Analysis](https://github.com/amina042297/Billionaires-Statistics-Dataset-Analysis)
     - [Analysis of Direct Marketing Campaign Effectiveness](https://github.com/amina042297/Analysis-of-Direct-Marketing-Campaign-Effectiveness/blob/main/README.md)
