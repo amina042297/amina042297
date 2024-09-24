@@ -14,7 +14,7 @@ This repository is a space where I showcase my skills, share projects, and docum
 - [Portfolio Projects](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
  
-  - [Dota 2 Winner Prediction (Binary Classification Problem)]([https://github.com/amina042297/amina042297/blob/main/Amina_Dota2Simplified_Simple_Baseline%20(5).ipynb](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb) 
+  - [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb) 
   - SQL
     - [Covid 19 Data Exploration](https://github.com/amina042297/Data-Analysis-Portfolio#covid-19-data-exploration)
   - R
