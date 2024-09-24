@@ -12,20 +12,11 @@ This repository is a space where I showcase my skills, share projects, and docum
 
 - [About](https://github.com/amina042297/amina042297/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
- 
+  #### Python
   - [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb)
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
-  - SQL
-    - [Covid 19 Data Exploration](https://github.com/amina042297/Data-Analysis-Portfolio#covid-19-data-exploration)
-  - R
+  #### R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/amina042297/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Power BI
- 
-- [Education](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-
 
 - 📫 How to reach me **amina.bauyrzhan@gmail.com**
 
