@@ -8,10 +8,7 @@ I’m passionate about exploring innovative tools and methodologies in data anal
 
 This repository is a space where I showcase my skills, share projects, and document my journey in the fields of Data Analytics and Data Science.
 
-## Table of Contents
-
-- [About](https://github.com/amina042297/amina042297/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/amina042297/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+Portfolio projects
   #### Python
   - [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb)
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
