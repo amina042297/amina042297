@@ -17,6 +17,7 @@ This repository is a space where I showcase my skills, share projects, and docum
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
   #### R
     - [Billionaires Statistics Dataset Analysis](https://github.com/amina042297/Billionaires-Statistics-Dataset-Analysis)
+    - [Analysis of Direct Marketing Campaign Effectiveness](https://github.com/amina042297/Analysis-of-Direct-Marketing-Campaign-Effectiveness/blob/main/README.md)
 
 - 📫 How to reach me **amina.bauyrzhan@gmail.com**
 
