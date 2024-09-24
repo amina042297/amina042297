@@ -1,0 +1,10 @@
+streamlit
+pandas
+python-pptx
+sentence-transformers
+nltk
+pdfminer.six
+PyPDF2
+pdf2image
+Pillow
+openai
