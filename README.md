@@ -82,6 +82,39 @@ This project addresses the challenge faced by students in the CS688 course of qu
 - The application successfully automates the identification of correct statements from lecture materials, offering a streamlined process to help students perform better in tests. It allows users to upload lecture slides, input statements, and receive a True/False classification based on predefined similarity thresholds, with color-coded feedback and detailed explanations (e.g., similarity scores, relevant slide/page references).
 - Here is the [app.](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
 
+### Rice Varieties Classification: Cammeo and Osmancik
+
+**Code:** [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
+
+**Goal:**
+To classify two rice varieties—Cammeo and Osmancik—using machine learning models based on their morphological features.
+
+**Description:**
+This project uses a dataset of 3,810 rice grain images to classify the rice varieties grown in Turkey (Osmancik and Cammeo). The dataset contains seven key morphological features for each rice grain, such as Area, Perimeter, Major Axis Length, Minor Axis Length, Eccentricity, Convex Area, and Extent. These features were analyzed using exploratory data analysis and machine learning models to differentiate between the two rice varieties. The dataset was split into training and testing sets to evaluate the performance of various models.
+
+**Skills:** 
+
+- Exploratory Data Analysis (EDA)
+- Feature engineering and selection
+- Supervised machine learning classification
+- Model evaluation and tuning
+- Feature scaling and model interpretation
+
+**Technology:** 
+
+- Machine Learning Models:
+-- K-Nearest Neighbors (KNN)
+Logistic Regression
+Support Vector Machine (SVM)
+Gaussian Naive Bayes
+Decision Tree
+Random Forest
+Python Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
+
+**Results:**
+
+- The application successfully automates the identification of correct statements from lecture materials, offering a streamlined process to help students perform better in tests. It allows users to upload lecture slides, input statements, and receive a True/False classification based on predefined similarity thresholds, with color-coded feedback and detailed explanations (e.g., similarity scores, relevant slide/page references).
+- Here is the [app.](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
 
 
  
