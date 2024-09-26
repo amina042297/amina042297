@@ -126,6 +126,40 @@ This project uses a dataset of 3,810 rice grain images to classify the rice vari
 
 The **Random Forest** and **Linear SVM** models were the top performers, indicating that more sophisticated models are better suited for this classification task.
 
+### Billionaires Statistics Dataset Analysis
+
+**Goal:**
+The goal of this project is to analyze the wealth distribution, business sectors, and demographics of the world's billionaires based on a dataset from Kaggle.
+
+**Description**
+This project provides insights into the sources of income for billionaires, the self-made versus inherited wealth distribution, age demographics, and the overall wealth distribution of billionaires across various sectors. The analysis also explores key trends and patterns within the billionaire dataset. Additionally, various sampling methods were applied to further explore the dataset, alongside visualizations to summarize the data.
+**Dataset**: [Billionaires Statistics Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
+
+**Skills**
+- Data wrangling and preprocessing in R
+- Data visualization
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Sampling techniques
+- Machine learning for distribution analysis
+
+**Technology**
+- ***Data Analysis & Visualization***:
+  - R programming
+  - Libraries: `plotly`, `ggplot2`, `tm`, `wordcloud`
+  - Interactive visualizations (bar charts, pie charts, scatter plots)
+  - Word cloud generation for popular billionaire names
+- ***Sampling Methods***:
+  - Simple Random Sampling
+  - Systematic Sampling
+  - Stratified Sampling
+
+**Results**
+- **Wealth Distribution**: Most billionaires come from sectors such as Finance, Technology, and Manufacturing.
+- **Self-made Billionaires**: Around 68% of billionaires are self-made, particularly in sectors like Sports and Energy.
+- **Age Demographics**: The age distribution is left-skewed, indicating that most billionaires are older, with a small number of younger billionaires, especially in sectors like Fashion and Technology.
+- **Sampling Analysis**: Simple Random Sampling closely mirrors the original dataset in terms of wealth distribution, while Stratified Sampling ensures all sectors are represented.
+- **Most Popular Names**: A word cloud analysis of first names showed that certain names ("John," "David") are more common among billionaires.
 
 
  
