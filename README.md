@@ -50,6 +50,40 @@ This project is based on the Dota 2 Kaggle competition, which involves binary cl
 - Submission results were prepared for the Kaggle competition, predicting the probability of the Radiant team winning.
 - I was 2nd in this [competition.](https://www.kaggle.com/competitions/dota-2-simplified/overview)
 
+
+### AI Statement Correctness Checker
+
+**Code:** [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
+
+**Goal:**
+To automate the process of identifying and validating correct statements from lecture materials (PDF/PPT) using advanced Natural Language Processing (NLP) techniques, such as MPNet (from the BERT family) and GPT models.
+
+**Description:**
+This project addresses the challenge faced by students in the CS688 course of quickly and accurately identifying correct statements during tests based on extensive lecture materials. The solution extracts text from PDFs and PPTs, preprocesses it, and applies semantic analysis using the MPNet model to check the correctness of user-inputted statements. In cases where the semantic similarity is ambiguous, GPT is used to refine the classification. The application provides a user-friendly Streamlit interface for uploading documents, inputting statements, setting thresholds, and visualizing results.
+
+**Skills:** 
+
+- Natural Language Processing (NLP)
+- Text extraction and preprocessing
+- Semantic analysis using sentence embeddings
+- GPT integration for advanced contextual analysis
+- Streamlit app development
+- Python programming
+
+**Technology:** 
+
+- MPNet (paraphrase-mpnet-base-v2): For semantic similarity and sentence embedding generation.
+- GPT-4: Used for deeper context analysis when MPNet results are ambiguous.
+- Python libraries: pdfminer (for PDF extraction), python-pptx (for PPT extraction), sentence-transformers, Streamlit.
+- Streamlit: Provides the user interface for file uploads, analysis, and results display.
+
+**Results:**
+
+- The application successfully automates the identification of correct statements from lecture materials, offering a streamlined process to help students perform better in tests. It allows users to upload lecture slides, input statements, and receive a True/False classification based on predefined similarity thresholds, with color-coded feedback and detailed explanations (e.g., similarity scores, relevant slide/page references).
+- Here is the [app.](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
+
+
+
  
 📫 Email: **amina.bauyrzhan@gmail.com**
 
