@@ -16,6 +16,37 @@ Portfolio projects
   #### R
   - [Billionaires Statistics Dataset Analysis](https://github.com/amina042297/Billionaires-Statistics-Dataset-Analysis)
   - [Analysis of Direct Marketing Campaign Effectiveness](https://github.com/amina042297/Analysis-of-Direct-Marketing-Campaign-Effectiveness/blob/main/README.md)
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Analyzing the Factors Contributing to the Success of a Movie
+**Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb) 
+
+**Goal:**
+To accurately predict the outcome of Dota 2 matches, specifically whether the Radiant team will win, by utilizing machine learning techniques to analyze in-game features like gold, experience, and towers destroyed.
+
+**Description:**
+The project involves building a binary classification model to predict match outcomes in Dota 2. A dataset with various in-game metrics such as gold, XP, and towers killed for both Radiant and Dire teams is used. Feature engineering is performed to compute differences in these metrics between the two teams, and logistic regression with cross-validation is applied to train the model. The results are evaluated based on the ROC AUC score, which measures how well the model can distinguish between Radiant and Dire wins. The model's predictions are saved for further analysis or submission.
+
+**Skills:** 
+
+Data Engineering: Creating new features (gold difference, XP difference, etc.) from raw game data.
+Machine Learning: Implementing logistic regression with cross-validation for binary classification.
+Model Evaluation: Using performance metrics such as ROC AUC to assess model accuracy.
+Python Programming: Using libraries like pandas for data manipulation and scikit-learn for machine learning and model evaluation.
+Feature Scaling: Applying standardization techniques for preparing data for model training.
+
+**Technology:** 
+
+pandas for data manipulation
+scikit-learn for machine learning models, scaling, and evaluation
+Logistic Regression with cross-validation for binary classification
+
+**Results:**
+
+The logistic regression model was trained using a dataset split into training and validation sets. After feature scaling, the model achieved a validation ROC AUC score of 0.8137, indicating good performance in distinguishing between Radiant and Dire wins. The model was further used to predict outcomes on a test set, and the results were saved in a CSV file for submission.
+
+https://www.kaggle.com/competitions/dota-2-simplified/overview
 
  
 📫 Email: **amina.bauyrzhan@gmail.com**
