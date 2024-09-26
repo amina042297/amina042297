@@ -10,7 +10,7 @@ This repository is a space where I showcase my skills, share projects, and docum
 
 Portfolio projects
   #### Python
-  - [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb)
+  - [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota_2_Binary_Classification_Kaggle.ipynb)
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
   - [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
   #### R
@@ -20,7 +20,7 @@ Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb) 
+**Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota_2_Binary_Classification_Kaggle.ipynb) 
 
 **Goal:**
 To predict the winner (Radiant or Dire) in a Dota 2 game based on in-game statistics from the first few minutes of gameplay using machine learning models.
