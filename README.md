@@ -19,7 +19,7 @@ Portfolio projects
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Predicting Dota 2 Match Outcomes: A Machine Learning Approach
 **Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota_2_Binary_Classification_Kaggle.ipynb) 
 
 **Goal:**
