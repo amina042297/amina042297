@@ -45,8 +45,10 @@ This project is based on the Dota 2 Kaggle competition, which involves binary cl
 
 **Results:**
 
-he best model achieved a ROC AUC score of 0.8327 using XGBoost. The ensemble model (Voting Classifier) achieved a ROC AUC score of 0.8262.
-Submission results were prepared for the Kaggle competition, predicting the probability of the Radiant team winning. I was 2nd in this [competition.](https://www.kaggle.com/competitions/dota-2-simplified/overview)
+- The best model achieved a ROC AUC score of 0.8327 using XGBoost.
+- The ensemble model (Voting Classifier) achieved a ROC AUC score of 0.8262.
+- Submission results were prepared for the Kaggle competition, predicting the probability of the Radiant team winning.
+- I was 2nd in this [competition.](https://www.kaggle.com/competitions/dota-2-simplified/overview)
 
  
 📫 Email: **amina.bauyrzhan@gmail.com**
