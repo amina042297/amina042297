@@ -18,7 +18,7 @@ Portfolio projects
   - [Analysis of Direct Marketing Campaign Effectiveness](https://github.com/amina042297/Analysis-of-Direct-Marketing-Campaign-Effectiveness/blob/main/README.md)
 
  
-📫 [Email]( **amina.bauyrzhan@gmail.com**)
+📫 [Email](amina.bauyrzhan@gmail.com)
 
 📋 [CV](https://github.com/amina042297/amina042297/blob/main/CV_Amina.pdf)
 
