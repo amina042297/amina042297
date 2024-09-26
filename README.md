@@ -103,8 +103,8 @@ This project uses a dataset of 3,810 rice grain images to classify the rice vari
 **Technology:** 
 
 - Machine Learning Models:
--- K-Nearest Neighbors (KNN)
-Logistic Regression
+       - K-Nearest Neighbors (KNN)
+        - Logistic Regression
 Support Vector Machine (SVM)
 Gaussian Naive Bayes
 Decision Tree
