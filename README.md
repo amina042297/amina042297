@@ -8,7 +8,9 @@ I’m passionate about exploring innovative tools and methodologies in data anal
 
 This repository is a space where I showcase my skills, share projects, and document my journey in the fields of Data Analytics and Data Science.
 
-Portfolio projects
+## Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
   #### Python
   - [Predicting Dota 2 Match Outcomes: A Machine Learning Approach](https://github.com/amina042297/amina042297/blob/main/README.md#predicting-dota-2-match-outcomes)
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/amina042297/blob/main/README.md#ai-statement-correctness-checker)
@@ -16,6 +18,8 @@ Portfolio projects
   #### R
   - [Billionaires Statistics Dataset Analysis](#billionaires-statistics-dataset-analysis)
   - [Analysis of Direct Marketing Campaign Effectiveness](#analysis-of-direct-marketing-campaign-effectiveness)
+
+
 # Portfolio Projects
 In this section, I list my data analytics projects, briefly describing the technology stack used to solve each case.
 
