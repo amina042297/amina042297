@@ -102,19 +102,30 @@ This project uses a dataset of 3,810 rice grain images to classify the rice vari
 
 **Technology:** 
 
-- Machine Learning Models:
-       - K-Nearest Neighbors (KNN)
-        - Logistic Regression
-Support Vector Machine (SVM)
-Gaussian Naive Bayes
-Decision Tree
-Random Forest
-Python Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
+- **Machine Learning Models**:
+  - K-Nearest Neighbors (KNN)
+  - Logistic Regression
+  - Support Vector Machine (SVM)
+  - Gaussian Naive Bayes
+  - Decision Tree
+  - Random Forest
+- **Python Libraries**:
+  - Pandas
+  - Scikit-learn
+  - Matplotlib
+  - Seaborn
+- **StandardScaler**: For standardizing features 
 
 **Results:**
 
-- The application successfully automates the identification of correct statements from lecture materials, offering a streamlined process to help students perform better in tests. It allows users to upload lecture slides, input statements, and receive a True/False classification based on predefined similarity thresholds, with color-coded feedback and detailed explanations (e.g., similarity scores, relevant slide/page references).
-- Here is the [app.](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
+- **Random Forest** achieved the highest accuracy of **93%**, with excellent performance in classifying both rice varieties.
+- **Linear SVM** showed a slightly lower accuracy of **92.9%**, with the best ability to distinguish non-Cammeo varieties.
+- **Logistic Regression** also performed well, achieving an accuracy of **92.7%**.
+- **KNN** and **Naive Bayes** models performed similarly, with accuracies slightly above **91%**.
+- **Decision Tree** had the lowest accuracy of **89.5%**.
+
+The **Random Forest** and **Linear SVM** models were the top performers, indicating that more sophisticated models are better suited for this classification task.
+
 
 
  
