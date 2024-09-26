@@ -51,7 +51,7 @@ This project is based on the Dota 2 Kaggle competition, which involves binary cl
 - I was 2nd in this [competition.](https://www.kaggle.com/competitions/dota-2-simplified/overview)
 
 
-### AI Statement Correctness Checker
+### AI Statement Correctness Checker [App.](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
 
 **Code:** [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
 
