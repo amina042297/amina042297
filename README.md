@@ -10,7 +10,7 @@ This repository is a space where I showcase my skills, share projects, and docum
 
 Portfolio projects
   #### Python
-  - [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota_2_Binary_Classification_Kaggle.ipynb)
+  - [Predicting Dota 2 Match Outcomes: A Machine Learning Approach](https://github.com/amina042297/amina042297/blob/main/README.md#predicting-dota_2_match_outcomes)
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
   - [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
   #### R
@@ -23,7 +23,7 @@ In this section, I list my data analytics projects, briefly describing the techn
 
 ---
 
-### Predicting Dota 2 Match Outcomes: A Machine Learning Approach
+### Predicting Dota 2 Match Outcomes
 **Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota_2_Binary_Classification_Kaggle.ipynb)
 
 **Goal:**
@@ -98,6 +98,8 @@ The project uses a dataset of 3,810 rice grain images to classify two rice varie
 ---
 
 ### Billionaires Statistics Dataset Analysis
+**Code:** [Billionaires Statistics Dataset Analysis](https://github.com/amina042297/Billionaires-Statistics-Dataset-Analysis)
+  
 **Goal:**
 Analyze the wealth distribution, business sectors, and demographics of the world's billionaires based on a dataset from Kaggle.
 
@@ -119,6 +121,8 @@ This project provides insights into income sources, self-made versus inherited w
 ---
 
 ### Analysis of Direct Marketing Campaign Effectiveness for Term Deposit Subscriptions
+
+**Code:** [Analysis of Direct Marketing Campaign Effectiveness](https://github.com/amina042297/Analysis-of-Direct-Marketing-Campaign-Effectiveness/blob/main/README.md)
 **Goal:**
 Identify key predictors of client subscription to term deposits based on a direct marketing campaign dataset and assess the effectiveness of logistic regression with ridge regularization.
 
