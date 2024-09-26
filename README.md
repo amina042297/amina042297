@@ -98,6 +98,7 @@ The project uses a dataset of 3,810 rice grain images to classify two rice varie
 ---
 
 ### Billionaires Statistics Dataset Analysis
+**Summary:** [Published in RPubs](https://rpubs.com/amina0422/1223987)
 **Code:** [Billionaires Statistics Dataset Analysis](https://github.com/amina042297/Billionaires-Statistics-Dataset-Analysis)
   
 **Goal:**
