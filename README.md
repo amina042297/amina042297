@@ -16,153 +16,126 @@ Portfolio projects
   #### R
   - [Billionaires Statistics Dataset Analysis](https://github.com/amina042297/Billionaires-Statistics-Dataset-Analysis)
   - [Analysis of Direct Marketing Campaign Effectiveness](https://github.com/amina042297/Analysis-of-Direct-Marketing-Campaign-Effectiveness/blob/main/README.md)
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+
+# Portfolio Projects
+In this section, I list my data analytics projects, briefly describing the technology stack used to solve each case.
+
+---
 
 ### Predicting Dota 2 Match Outcomes: A Machine Learning Approach
-**Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota_2_Binary_Classification_Kaggle.ipynb) 
+**Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota_2_Binary_Classification_Kaggle.ipynb)
 
 **Goal:**
 To predict the winner (Radiant or Dire) in a Dota 2 game based on in-game statistics from the first few minutes of gameplay using machine learning models.
 
 **Description:**
-This project is based on the Dota 2 Kaggle competition, which involves binary classification to predict the winner of a game using structured data. The dataset contains numerous game features such as player stats, hero selections, and game events. Key steps include data preprocessing (feature engineering and encoding), applying logistic regression and XGBoost models, and evaluating their performance using ROC AUC metrics. Additionally, an ensemble model using both Logistic Regression and XGBoost was implemented to further improve prediction accuracy.
+This project is based on the Dota 2 Kaggle competition, involving binary classification to predict the winner using structured data. It includes key steps like data preprocessing, feature engineering, applying logistic regression and XGBoost models, and evaluating performance with ROC AUC metrics. An ensemble model using Logistic Regression and XGBoost was implemented to further improve prediction accuracy.
 
 **Skills:** 
+- Data Engineering: Feature creation (gold difference, XP difference).
+- Machine Learning: Logistic regression, XGBoost, Ensemble modeling.
+- Model Evaluation: ROC AUC metric assessment.
+- Python Programming: pandas, scikit-learn for data manipulation and modeling.
+- Feature Scaling: Standardization for model training.
 
-- Data Engineering: Creating new features (gold difference, XP difference, etc.) from raw game data.
-- Machine Learning: Implementing logistic regression with cross-validation, XGBoost, Ensemble modeling (VotingClassifier)
-- Model Evaluation: Using performance metrics such as ROC AUC to assess model accuracy.
-- Python Programming: Using libraries like pandas for data manipulation and scikit-learn for machine learning and model evaluation.
-- Feature Scaling: Applying standardization techniques for preparing data for model training.
-
-**Technology:** 
-
-- pandas for data manipulation
-- scikit-learn for machine learning models, scaling, and evaluation (LogisticRegressionCV, StratifiedKFold, StandardScaler)
-- XGBoost
-- Matplotlib (for ROC curve visualization)
+**Technology:**
+- pandas, scikit-learn (LogisticRegressionCV, StratifiedKFold, StandardScaler), XGBoost, Matplotlib.
 
 **Results:**
+- Best ROC AUC score of **0.8327** using XGBoost.
+- Ensemble model achieved ROC AUC score of **0.8262**.
+- 2nd place in the [competition](https://www.kaggle.com/competitions/dota-2-simplified/overview).
 
-- The best model achieved a ROC AUC score of 0.8327 using XGBoost.
-- The ensemble model (Voting Classifier) achieved a ROC AUC score of 0.8262.
-- Submission results were prepared for the Kaggle competition, predicting the probability of the Radiant team winning.
-- I was 2nd in this [competition.](https://www.kaggle.com/competitions/dota-2-simplified/overview)
+---
 
-
-### AI Statement Correctness Checker [App.](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
-
+### AI Statement Correctness Checker [App](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
 **Code:** [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
 
 **Goal:**
-To automate the process of identifying and validating correct statements from lecture materials (PDF/PPT) using advanced Natural Language Processing (NLP) techniques, such as MPNet (from the BERT family) and GPT models.
+To automate the process of identifying and validating correct statements from lecture materials (PDF/PPT) using advanced NLP techniques, including MPNet and GPT models.
 
 **Description:**
-This project addresses the challenge faced by students in the CS688 course of quickly and accurately identifying correct statements during tests based on extensive lecture materials. The solution extracts text from PDFs and PPTs, preprocesses it, and applies semantic analysis using the MPNet model to check the correctness of user-inputted statements. In cases where the semantic similarity is ambiguous, GPT is used to refine the classification. The application provides a user-friendly Streamlit interface for uploading documents, inputting statements, setting thresholds, and visualizing results.
+The project helps students quickly identify correct statements in tests based on lecture materials. The solution extracts text from PDFs/PPTs, preprocesses it, and applies MPNet for semantic analysis. GPT is used to refine ambiguous cases. The Streamlit app provides a user interface for uploading documents, inputting statements, and displaying results.
 
 **Skills:** 
-
-- Natural Language Processing (NLP)
-- Text extraction and preprocessing
-- Semantic analysis using sentence embeddings
-- GPT integration for advanced contextual analysis
-- Streamlit app development
-- Python programming
+- Natural Language Processing (NLP), GPT integration.
+- Streamlit app development.
+- Python programming.
 
 **Technology:** 
-
-- MPNet (paraphrase-mpnet-base-v2): For semantic similarity and sentence embedding generation.
-- GPT-4: Used for deeper context analysis when MPNet results are ambiguous.
-- Python libraries: pdfminer (for PDF extraction), python-pptx (for PPT extraction), sentence-transformers, Streamlit.
-- Streamlit: Provides the user interface for file uploads, analysis, and results display.
+- MPNet (paraphrase-mpnet-base-v2), GPT-4, pdfminer, python-pptx, Streamlit.
 
 **Results:**
+- Successfully automated the identification of correct statements with color-coded feedback and detailed explanations.
+- [App](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/) deployed.
 
-- The application successfully automates the identification of correct statements from lecture materials, offering a streamlined process to help students perform better in tests. It allows users to upload lecture slides, input statements, and receive a True/False classification based on predefined similarity thresholds, with color-coded feedback and detailed explanations (e.g., similarity scores, relevant slide/page references).
-- Here is the [app.](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
+---
 
 ### Rice Varieties Classification: Cammeo and Osmancik
-
-**Code:** [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
+**Code:** [Classification models for Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
 
 **Goal:**
 To classify two rice varieties—Cammeo and Osmancik—using machine learning models based on their morphological features.
 
 **Description:**
-This project uses a dataset of 3,810 rice grain images to classify the rice varieties grown in Turkey (Osmancik and Cammeo). The dataset contains seven key morphological features for each rice grain, such as Area, Perimeter, Major Axis Length, Minor Axis Length, Eccentricity, Convex Area, and Extent. These features were analyzed using exploratory data analysis and machine learning models to differentiate between the two rice varieties. The dataset was split into training and testing sets to evaluate the performance of various models.
+The project uses a dataset of 3,810 rice grain images to classify two rice varieties. The dataset includes features such as Area, Perimeter, Major Axis Length, Minor Axis Length, Eccentricity, Convex Area, and Extent. The performance of several machine learning models was evaluated, and the dataset was split into training and testing sets.
 
 **Skills:** 
-
-- Exploratory Data Analysis (EDA)
-- Feature engineering and selection
-- Supervised machine learning classification
-- Model evaluation and tuning
-- Feature scaling and model interpretation
+- Exploratory Data Analysis (EDA), Feature Engineering.
+- Supervised machine learning.
+- Model evaluation and tuning.
 
 **Technology:** 
-
-- **Machine Learning Models**:
-  - K-Nearest Neighbors (KNN)
-  - Logistic Regression
-  - Support Vector Machine (SVM)
-  - Gaussian Naive Bayes
-  - Decision Tree
-  - Random Forest
-- **Python Libraries**:
-  - Pandas
-  - Scikit-learn
-  - Matplotlib
-  - Seaborn
-- **StandardScaler**: For standardizing features 
+- KNN, Logistic Regression, SVM, Naive Bayes, Decision Tree, Random Forest.
+- Python: pandas, scikit-learn, Matplotlib, Seaborn.
 
 **Results:**
+- **Random Forest** achieved the highest accuracy of **93%**.
+- **SVM** performed slightly lower with **92.9%** accuracy.
+- **Logistic Regression** achieved **92.7%** accuracy.
 
-- **Random Forest** achieved the highest accuracy of **93%**, with excellent performance in classifying both rice varieties.
-- **Linear SVM** showed a slightly lower accuracy of **92.9%**, with the best ability to distinguish non-Cammeo varieties.
-- **Logistic Regression** also performed well, achieving an accuracy of **92.7%**.
-- **KNN** and **Naive Bayes** models performed similarly, with accuracies slightly above **91%**.
-- **Decision Tree** had the lowest accuracy of **89.5%**.
-
-The **Random Forest** and **Linear SVM** models were the top performers, indicating that more sophisticated models are better suited for this classification task.
+---
 
 ### Billionaires Statistics Dataset Analysis
-
 **Goal:**
-The goal of this project is to analyze the wealth distribution, business sectors, and demographics of the world's billionaires based on a dataset from Kaggle.
+Analyze the wealth distribution, business sectors, and demographics of the world's billionaires based on a dataset from Kaggle.
 
-**Description**
-This project provides insights into the sources of income for billionaires, the self-made versus inherited wealth distribution, age demographics, and the overall wealth distribution of billionaires across various sectors. The analysis also explores key trends and patterns within the billionaire dataset. Additionally, various sampling methods were applied to further explore the dataset, alongside visualizations to summarize the data.
-**Dataset**: [Billionaires Statistics Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
+**Description:**
+This project provides insights into income sources, self-made versus inherited wealth, age demographics, and wealth distribution of billionaires. Additionally, various sampling methods were applied to further explore the dataset, with visualizations summarizing the data.
 
-**Skills**
-- Data wrangling and preprocessing in R
-- Data visualization
-- Exploratory Data Analysis (EDA)
-- Statistical analysis
-- Sampling techniques
-- Machine learning for distribution analysis
+**Skills:**
+- Data wrangling, visualization, EDA.
+- Statistical analysis, sampling techniques.
 
-**Technology**
-- ***Data Analysis & Visualization***:
-  - R programming
-  - Libraries: `plotly`, `ggplot2`, `tm`, `wordcloud`
-  - Interactive visualizations (bar charts, pie charts, scatter plots)
-  - Word cloud generation for popular billionaire names
-- ***Sampling Methods***:
-  - Simple Random Sampling
-  - Systematic Sampling
-  - Stratified Sampling
+**Technology:**
+- R: `plotly`, `ggplot2`, `tm`, `wordcloud`.
+- Sampling Methods: Simple Random Sampling, Systematic Sampling, Stratified Sampling.
 
-**Results**
-- **Wealth Distribution**: Most billionaires come from sectors such as Finance, Technology, and Manufacturing.
-- **Self-made Billionaires**: Around 68% of billionaires are self-made, particularly in sectors like Sports and Energy.
-- **Age Demographics**: The age distribution is left-skewed, indicating that most billionaires are older, with a small number of younger billionaires, especially in sectors like Fashion and Technology.
-- **Sampling Analysis**: Simple Random Sampling closely mirrors the original dataset in terms of wealth distribution, while Stratified Sampling ensures all sectors are represented.
-- **Most Popular Names**: A word cloud analysis of first names showed that certain names ("John," "David") are more common among billionaires.
+**Results:**
+- **Wealth Distribution**: Most billionaires are from Finance, Technology, and Manufacturing.
+- **Self-made Billionaires**: 68% self-made, prevalent in Sports and Energy sectors.
 
+---
 
- 
+### Analysis of Direct Marketing Campaign Effectiveness for Term Deposit Subscriptions
+**Goal:**
+Identify key predictors of client subscription to term deposits based on a direct marketing campaign dataset and assess the effectiveness of logistic regression with ridge regularization.
+
+**Description:**
+This project analyzes the direct marketing campaigns of a Portuguese bank to promote term deposit subscriptions. The dataset consists of 45,211 observations with 17 variables. Logistic regression with ridge regularization was applied to manage multicollinearity, and the dataset was preprocessed through outlier removal and downsampling.
+
+**Skills:**
+- Data Preprocessing, EDA, Logistic Regression with Ridge Regularization.
+- Model Performance Evaluation (AUC, Accuracy, Sensitivity).
+
+**Technology:**
+- R Libraries: `dplyr`, `psych`, `ggplot2`, `tidyr`, `caret`, `glmnet`, `pROC`.
+
+**Results:**
+- **AUC** of **0.913** with high sensitivity and specificity.
+- Key predictors: being a student, single marital status, previous campaign outcome.
+
 📫 Email: **amina.bauyrzhan@gmail.com**
 
 📋 [CV](https://github.com/amina042297/amina042297/blob/main/CV_Amina.pdf)
