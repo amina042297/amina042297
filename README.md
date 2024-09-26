@@ -10,7 +10,7 @@ This repository is a space where I showcase my skills, share projects, and docum
 
 Portfolio projects
   #### Python
-  - [Predicting Dota 2 Match Outcomes: A Machine Learning Approach](https://github.com/amina042297/amina042297/blob/main/README.md#predicting-dota_2_match_outcomes)
+  - [Predicting Dota 2 Match Outcomes: A Machine Learning Approach](https://github.com/amina042297/amina042297/blob/main/README.md#predicting-dota-2-match-outcomes)
   - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
   - [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
   #### R
