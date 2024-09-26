@@ -23,30 +23,30 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [Dota 2 Winner Prediction (Binary Classification Problem)](https://github.com/amina042297/amina042297/blob/main/Dota%202%20Winner%20Prediction%20(Binary%20Classification%20Problem).ipynb) 
 
 **Goal:**
-To accurately predict the outcome of Dota 2 matches, specifically whether the Radiant team will win, by utilizing machine learning techniques to analyze in-game features like gold, experience, and towers destroyed.
+To predict the winner (Radiant or Dire) in a Dota 2 game based on in-game statistics from the first few minutes of gameplay using machine learning models.
 
 **Description:**
-The project involves building a binary classification model to predict match outcomes in Dota 2. A dataset with various in-game metrics such as gold, XP, and towers killed for both Radiant and Dire teams is used. Feature engineering is performed to compute differences in these metrics between the two teams, and logistic regression with cross-validation is applied to train the model. The results are evaluated based on the ROC AUC score, which measures how well the model can distinguish between Radiant and Dire wins. The model's predictions are saved for further analysis or submission.
+This project is based on the Dota 2 Kaggle competition, which involves binary classification to predict the winner of a game using structured data. The dataset contains numerous game features such as player stats, hero selections, and game events. Key steps include data preprocessing (feature engineering and encoding), applying logistic regression and XGBoost models, and evaluating their performance using ROC AUC metrics. Additionally, an ensemble model using both Logistic Regression and XGBoost was implemented to further improve prediction accuracy.
 
 **Skills:** 
 
-Data Engineering: Creating new features (gold difference, XP difference, etc.) from raw game data.
-Machine Learning: Implementing logistic regression with cross-validation for binary classification.
-Model Evaluation: Using performance metrics such as ROC AUC to assess model accuracy.
-Python Programming: Using libraries like pandas for data manipulation and scikit-learn for machine learning and model evaluation.
-Feature Scaling: Applying standardization techniques for preparing data for model training.
+- Data Engineering: Creating new features (gold difference, XP difference, etc.) from raw game data.
+- Machine Learning: Implementing logistic regression with cross-validation, XGBoost, Ensemble modeling (VotingClassifier)
+- Model Evaluation: Using performance metrics such as ROC AUC to assess model accuracy.
+- Python Programming: Using libraries like pandas for data manipulation and scikit-learn for machine learning and model evaluation.
+- Feature Scaling: Applying standardization techniques for preparing data for model training.
 
 **Technology:** 
 
-pandas for data manipulation
-scikit-learn for machine learning models, scaling, and evaluation
-Logistic Regression with cross-validation for binary classification
+- pandas for data manipulation
+- scikit-learn for machine learning models, scaling, and evaluation (LogisticRegressionCV, StratifiedKFold, StandardScaler)
+- XGBoost
+- Matplotlib (for ROC curve visualization)
 
 **Results:**
 
-The logistic regression model was trained using a dataset split into training and validation sets. After feature scaling, the model achieved a validation ROC AUC score of 0.8137, indicating good performance in distinguishing between Radiant and Dire wins. The model was further used to predict outcomes on a test set, and the results were saved in a CSV file for submission.
-
-https://www.kaggle.com/competitions/dota-2-simplified/overview
+he best model achieved a ROC AUC score of 0.8327 using XGBoost. The ensemble model (Voting Classifier) achieved a ROC AUC score of 0.8262.
+Submission results were prepared for the Kaggle competition, predicting the probability of the Radiant team winning. I was 2nd in this [competition.](https://www.kaggle.com/competitions/dota-2-simplified/overview)
 
  
 📫 Email: **amina.bauyrzhan@gmail.com**
