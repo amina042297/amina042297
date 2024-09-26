@@ -19,7 +19,7 @@ Portfolio projects
 
  
 📫 How to reach me **amina.bauyrzhan@gmail.com**
- [CV](https://github.com/amina042297/amina042297/blob/main/CV_Amina.pdf)
+![image](https://github.com/user-attachments/assets/83af2060-d4b8-4961-90c5-6f026a5e61c5)  [CV](https://github.com/amina042297/amina042297/blob/main/CV_Amina.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
