@@ -11,13 +11,11 @@ This repository is a space where I showcase my skills, share projects, and docum
 Portfolio projects
   #### Python
   - [Predicting Dota 2 Match Outcomes: A Machine Learning Approach](https://github.com/amina042297/amina042297/blob/main/README.md#predicting-dota-2-match-outcomes)
-  - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
-  - [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/tree/main)
+  - [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/amina042297/blob/main/README.md#ai-statement-correctness-checker)
+  - [Classification models to differentiate between two rice varieties, Cammeo and Osmancik](#classification-models-to-differentiate-between-two-rice-varieties-cammeo-and-osmancik)
   #### R
-  - [Billionaires Statistics Dataset Analysis](https://github.com/amina042297/Billionaires-Statistics-Dataset-Analysis)
-  - [Analysis of Direct Marketing Campaign Effectiveness](https://github.com/amina042297/Analysis-of-Direct-Marketing-Campaign-Effectiveness/blob/main/README.md)
-
-
+  - [Billionaires Statistics Dataset Analysis](#billionaires-statistics-dataset-analysis)
+  - [Analysis of Direct Marketing Campaign Effectiveness](#analysis-of-direct-marketing-campaign-effectiveness)
 # Portfolio Projects
 In this section, I list my data analytics projects, briefly describing the technology stack used to solve each case.
 
@@ -49,7 +47,9 @@ This project is based on the Dota 2 Kaggle competition, involving binary classif
 
 ---
 
-### AI Statement Correctness Checker [App](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
+### AI Statement Correctness Checker
+**App:** [Streamlit App](https://ai-statement-correctness-checker-jxy5j4ehhghdxaxrvwbafb.streamlit.app/)
+
 **Code:** [AI Statement Correctness Checker app with NLP and GPT](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/README.md)
 
 **Goal:**
